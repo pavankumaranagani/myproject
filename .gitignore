@@ -1,0 +1,25 @@
+# Virtual Environment
+venv/
+env/
+ 
+# Compiled Python files
+__pycache__/
+*.pyc
+ 
+# Flask migration folder
+migrations/
+ 
+# IDE and editor files
+.vscode/
+.idea/
+ 
+# Flask environment file
+.env
+ 
+# Local SQLite database file
+*.sqlite
+ 
+# Logs
+*.log
+has context menu
+Share a file
